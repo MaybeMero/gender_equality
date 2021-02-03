@@ -28,3 +28,4 @@ export class AppComponent {
     return this.sanitizer.bypassSecurityTrustUrl(urltoSanitize);
 }
 }
+
